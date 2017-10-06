@@ -6,4 +6,4 @@
  * Time: 11.33
  */
 
-/* This is the second comment */
+/* This is only comment */
